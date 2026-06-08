@@ -160,7 +160,16 @@
       "icon": "Laptop",
       "description": "我搜集的TV类软件",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1780899985453",
+          "title": "存粹直播，一个直播软件看哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc",
+          "href": "https://github.com/liuchuancong/pure_live",
+          "description": "访问 github.com",
+          "icon": "/assets/favicon_1780899990428.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
