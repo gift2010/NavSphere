@@ -397,6 +397,15 @@
       "enabled": true
     },
     {
+      "id": "1780899780136",
+      "title": "TV软件",
+      "icon": "Laptop",
+      "description": "我搜集的TV类软件",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1735265493940",
       "title": "开发者工具包",
       "icon": "Box",
@@ -1553,15 +1562,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1780899780136",
-      "title": "TV软件",
-      "icon": "Laptop",
-      "description": "我搜集的TV类软件",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
