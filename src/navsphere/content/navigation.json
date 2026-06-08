@@ -192,6 +192,14 @@
           "description": "TVBox Q版，T版发布页",
           "icon": "/assets/img_1739871936809.webp",
           "enabled": true
+        },
+        {
+          "id": "1780920052674",
+          "title": "FUSE",
+          "href": "https://github.com/jayjd/HuYaTv",
+          "description": "聚合直播（FUSE）,支持虎牙/抖音/快手/哔哩哔哩/斗鱼/YY/网易CC/电视直播，支持手机/平板/电视/车机 - jayjd/HuYaTv",
+          "icon": "/assets/img_1739871936809.webp",
+          "enabled": true
         }
       ],
       "subCategories": []
