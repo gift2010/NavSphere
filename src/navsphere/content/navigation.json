@@ -184,6 +184,14 @@
           "description": "类似于存粹直播",
           "icon": "/assets/favicon_1780919894701.png",
           "enabled": true
+        },
+        {
+          "id": "1780919966787",
+          "title": "TVBoxOSC",
+          "href": "https://github.com/j4Uq/TVBoxOSC",
+          "description": "TVBox Q版，T版发布页",
+          "icon": "/assets/img_1739871936809.webp",
+          "enabled": true
         }
       ],
       "subCategories": []
