@@ -155,6 +155,15 @@
       "enabled": true
     },
     {
+      "id": "1780899780136",
+      "title": "TV软件",
+      "icon": "Laptop",
+      "description": "我搜集的TV类软件",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -395,15 +404,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1780899780136",
-      "title": "TV软件",
-      "icon": "Laptop",
-      "description": "我搜集的TV类软件",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1735265493940",
