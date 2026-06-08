@@ -1553,6 +1553,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1780899780136",
+      "title": "TV软件",
+      "icon": "FolderKanban",
+      "description": "我搜集的TV类软件",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
