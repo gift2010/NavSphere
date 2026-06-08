@@ -168,6 +168,14 @@
           "description": "存粹直播，一个直播软件看哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc",
           "icon": "/assets/favicon_1780899990428.png",
           "enabled": true
+        },
+        {
+          "id": "1780900243602",
+          "title": "电视上刷dy，mydv的Lite版本",
+          "href": "https://github.com/mytv-android/mydv-Lite",
+          "description": "电视上刷dy，mydv的Lite版本",
+          "icon": "/assets/favicon_1780900251012.png",
+          "enabled": true
         }
       ],
       "subCategories": []
