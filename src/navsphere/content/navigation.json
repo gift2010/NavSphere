@@ -224,6 +224,14 @@
           "description": "一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5. BBLL停更后平替",
           "icon": "/assets/img_1739871936809.webp",
           "enabled": true
+        },
+        {
+          "id": "1780920862214",
+          "title": "分享迷",
+          "href": "https://www.fenxm.com/tv",
+          "description": "tv软件专栏，为您提供最新最全最好用的电视软件，海量tv直播、tv点播以及各类符合电视大屏体验的新奇软件，让你的电视生活更精彩。",
+          "icon": "/assets/img_1739871936809.webp",
+          "enabled": true
         }
       ],
       "subCategories": []
