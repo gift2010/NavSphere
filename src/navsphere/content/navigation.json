@@ -176,6 +176,14 @@
           "description": "电视上刷dy，mydv的Lite版本",
           "icon": "/assets/img_1739871936809.webp",
           "enabled": true
+        },
+        {
+          "id": "1780919867399",
+          "title": "simple_live:",
+          "href": "https://github.com/xiaoyaocz/dart_simple_live",
+          "description": "简简单单的看直播. Contribute to xiaoyaocz/dart_simple_live development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1780919894701.png",
+          "enabled": true
         }
       ],
       "subCategories": []
