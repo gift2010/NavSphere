@@ -208,6 +208,14 @@
           "description": "An Android native video player. Contribute to anilbeesetti/nextplayer development by creating an account on GitHub.",
           "icon": "/assets/img_1739871936809.webp",
           "enabled": true
+        },
+        {
+          "id": "1780920311690",
+          "title": "myDV",
+          "href": "https://github.com/mytv-android/myDV",
+          "description": "电视上刷dy，mydv",
+          "icon": "/assets/img_1739871936809.webp",
+          "enabled": true
         }
       ],
       "subCategories": []
