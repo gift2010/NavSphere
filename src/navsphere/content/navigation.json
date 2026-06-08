@@ -216,6 +216,14 @@
           "description": "电视上刷dy，mydv",
           "icon": "/assets/img_1739871936809.webp",
           "enabled": true
+        },
+        {
+          "id": "1780920425275",
+          "title": "blbl",
+          "href": "https://github.com/cat3399/blbl",
+          "description": "一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5. BBLL停更后平替",
+          "icon": "/assets/img_1739871936809.webp",
+          "enabled": true
         }
       ],
       "subCategories": []
