@@ -167,7 +167,7 @@
           "href": "https://github.com/liuchuancong/pure_live",
           "description": "存粹直播，一个直播软件看哔哩哔哩/虎牙/斗鱼/快手/抖音/网易cc",
           "icon": "/assets/favicon_1780899990428.png",
-          "enabled": false
+          "enabled": true
         },
         {
           "id": "1780900243602",
